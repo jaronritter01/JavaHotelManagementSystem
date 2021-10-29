@@ -1,0 +1,4 @@
+10 Jaron 10
+15 John 89
+22 Betty 22
+2 Paiton 4
